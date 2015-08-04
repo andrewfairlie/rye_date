@@ -2,7 +2,7 @@
 if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 /**
-* WD+P Date
+* Rye Date
 *
 * @package     ExpressionEngine
 * @category    Plugin
