@@ -1,3 +1,3 @@
-# WD+P Date
+# Rye Date
 
-`{exp:wdandp_date date="{gv_next-wednesday}" format="%D, %F %d, %Y - %g:%i:%s"}`
+`{exp:rye_date date="{gv_next-wednesday}" format="%D, %F %d, %Y - %g:%i:%s"}`
