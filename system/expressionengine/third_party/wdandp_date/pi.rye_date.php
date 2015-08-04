@@ -6,20 +6,20 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 *
 * @package     ExpressionEngine
 * @category    Plugin
-* @author      WD+P
+* @author      Rye Digital Marketing
 * @copyright   Copyright (c) 2015, Andrew Fairlie
-* @link        http://wdandp.co.uk/
+* @link        http://rye.agency/
 */
 
 $plugin_info = array(
-'pi_name'         => 'WD+P Date',
+'pi_name'         => 'Rye Date',
 'pi_version'      => '1.0',
-'pi_author'       => 'WD+P',
-'pi_author_url'   => 'http://wdandp.co.uk/',
+'pi_author'       => 'Rye Digital Marketing',
+'pi_author_url'   => 'http://rye.agency/',
 'pi_description'  => 'Lets you use ExpressionEngine date formatting on any date string'
 );
 
-class Wdandp_date {
+class Rye_date {
   public $return_data = "";
 
   public function __construct()
