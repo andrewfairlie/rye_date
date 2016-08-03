@@ -1,3 +1,3 @@
 # Rye Date
 
-`{exp:rye_date date="{gv_next-wednesday}" format="%D, %F %d, %Y - %g:%i:%s"}`
+This repository now lives at https://bitbucket.org/theryeagency/date
